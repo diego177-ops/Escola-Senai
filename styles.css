@@ -1,0 +1,174 @@
+nav {
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    box-shadow:1px 1px 5px black;
+    background-color: gray;
+    border-radius: 10px;
+    color: black    ;
+    font-size: 50px;
+    text-align: center;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    border-radius: 15px;
+}
+
+.link {
+    color: blueviolet;
+    font-size: 50px;
+    text-align: center;
+}
+
+table {
+    border: 1px solid blue;
+    color: rgb(247, 0, 0);
+    width: 90%;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 70px;
+    border-radius: 15px;
+}
+table.total {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(255, 8, 0);
+}
+td {
+    border: 1px solid blue;
+    padding: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    background-color: black;
+}
+form label {
+    margin-bottom: 10px;
+    font-size: 40px;
+    color: white;
+}
+form input {
+    padding: 10px;
+    font-size: 30px;
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+form button {
+    padding: 10px 20px;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+h1.dois {
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+
+a {
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+}
+
+h3.sobre {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    
+}
+a.sobre {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+}
+
+img.img1 {
+    display: block;
+    margin: 0 auto;
+    width: 1200px;
+    height: auto;
+}
+
+h5 {
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+
+img.jau {
+    display: block;
+    margin: 0 auto;
+    width: 1200px;
+    height: auto;
+}
+
+a.insta {
+    color: black;
+    font-size: 70px;
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+}
+
+a.youtube {
+    color: black;
+    font-size: 70px;
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+}
+
+a.site {
+    color: black;
+    font-size: 70px;
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+}
